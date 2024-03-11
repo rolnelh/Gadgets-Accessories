@@ -531,7 +531,7 @@ footer .more p {
         padding: 10px;
         display: flex;
         flex-wrap: wrap;
-        justify-content: flex-start;
+        justify-content: center;
     }
 
     .features h1 {
@@ -630,7 +630,7 @@ footer .more p {
         padding: 10px;
         display: flex;
         flex-wrap: wrap;
-        justify-content: flex-start;
+        justify-content: center;
     }
 
     .features h1 {
